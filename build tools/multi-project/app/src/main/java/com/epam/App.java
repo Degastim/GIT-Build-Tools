@@ -1,6 +1,4 @@
-package com.epam.api;
-
-import com.epam.core.Utils;
+package com.epam;
 
 public class App {
     public static void main(String[] args) {
